@@ -1,0 +1,47 @@
+body {
+	margin-left: 25px;
+	margin-bottom: 25px;
+}
+
+h1 {
+	text-align: center;
+	/*margin-left: 125px;*/
+	color: palevioletred;
+}
+
+h2 {
+	font-family: cursive;
+}
+
+p {
+	margin-left: 10px;
+	margin-bottom: inherit;
+	margin-top: inherit;
+}
+
+.think {
+	color: blueviolet;
+}
+
+.story {
+	width: 80%;
+	margin: 25px auto;
+	padding: 0px 25px 25px 25px;
+	border-width: 2px;
+	border-color: gray;
+	border-style: solid;
+}
+
+.nav {
+	background: blueviolet;
+	position: fixed;
+	width: 100%;
+	/*height: 80px;*/
+	top: 0px;
+	left: 0px;
+	/*margin-left: 0px*/
+}
+
+.nav-bot {
+	height: 80px;
+}
